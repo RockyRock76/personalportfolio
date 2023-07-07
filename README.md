@@ -1,3 +1,5 @@
+this is a change to the README to demonstrate how to push and pull from github
+
 p h o t o r a m a 
 ====================
 
